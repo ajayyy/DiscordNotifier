@@ -1,0 +1,4 @@
+{
+    "webHookURL": "WEBHOOK URL TO THE NOTIFICATION SERVER (this server should be unmuted so that you get the notifications)",
+    "token": "token for your account, look up how to get it"
+}
